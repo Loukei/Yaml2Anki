@@ -69,8 +69,7 @@
 3. 將生字本輸出成yaml格式 
 ![IMG](screenshot/chrome_yAOS1TCDFX.png)
 
-4. 使用AnkiYaml.py轉成xlsx試算表 
-`-i mydict.yaml`
+4. 使用腳本`yaml2xlsx.py`轉成xlsx試算表 `-i mydict.yaml`
 
 5. 打開轉換好的試算表，根據你的筆記欄位名稱修改試算表欄位名稱 
 
