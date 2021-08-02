@@ -15,6 +15,7 @@
 ### 沙拉查詞的缺點
 
 如果你想記錄更多的資訊，比如字根字首等，別無選擇只能寫在Note欄位。
+[相關討論](https://github.com/crimx/ext-saladict/issues/976)
 
 ![IMG](screenshot/chrome_sb5yikUY9R.png)
 
