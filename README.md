@@ -60,6 +60,11 @@
 - 可以使用`.csv`,`.json`,`.yaml`來管理筆記資料
 - 可以讀取`.apkg`轉成panki的專案形式，這樣的好處是我們可以先在anki設計好筆記與卡片，導出`.apkg`後，再經由`.csv`補進資料
 
+### Anki-Cli [2021/8/10]
+
+- 非官方的外部CLI工具
+- 支援使用yaml輸入筆記，與本篇試圖做到的事情相同，而且不用額外編輯與處理excel
+
 ## 本篇專案的使用方式
 
 1. 安裝Anki外掛[Spreadsheet Import Plus for Anki](https://github.com/HelenFoster/AnkiSpreadsheetImportPlus/tree/v0.1.0)
@@ -96,6 +101,8 @@
 - [CrowdAnki](https://github.com/Stvad/CrowdAnki#snapshots)
 
 - [AnkiConnect](https://github.com/FooSoft/anki-connect#note-actions)
+
+- [Anki CLI](https://github.com/julien-sobczak/anki-cli)
 
 - [Spreadsheet Import Plus for Anki](https://github.com/HelenFoster/AnkiSpreadsheetImportPlus/tree/v0.1.0)
 
